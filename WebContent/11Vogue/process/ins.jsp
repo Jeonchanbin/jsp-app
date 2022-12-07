@@ -10,7 +10,7 @@
 	
 	// DB연결 객체 생성
 	JDBConnector jdbc = new JDBConnector();
-	// 암호화 객체 생성asdasd
+	// 암호화 객체 생성
 	SHA256 sha = new SHA256();
 	
 	try{
